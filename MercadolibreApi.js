@@ -1,5 +1,4 @@
-//https://api.mercadolibre.com/items/:id
-//https://api.mercadolibre.com/items/:id/description
+
 const utils = require('./utils');
 const axios = require('axios').default;
 const API = 'https://api.mercadolibre.com/';
